@@ -58,7 +58,7 @@ These values sit at the top of `face_tracker.py`:
 | `MAX_MISSING` | `15` | Frames a target survives without being detected. |
 | `MAX_DISTANCE` | `120` | Max pixel distance to match a detection to an existing target. |
 | `SMOOTHING` | `0.35` | Box smoothing. Lower is smoother, higher is more responsive. |
-
+ 
 ## How it works
 
 1. Each frame is converted to grayscale and equalized.
