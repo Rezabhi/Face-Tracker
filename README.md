@@ -19,7 +19,7 @@ Real-time face detection and tracking from your webcam, with a CCTV-style green 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/face-tracker.git
+git clone https://github.com/Rezabhi/Face-Tracker.git
 cd face-tracker
 python -m venv .venv
 ```
